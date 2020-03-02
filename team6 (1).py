@@ -8,7 +8,7 @@
 
 team_name = 'Gabanne' # Only 10 chars displayed.
 strategy_name = 'da nuggies'
-strategy_description = 'very goodly'
+strategy_description = 'betrayyyyyyyyyyyyy'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
